@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="bondup_logo.svg"
-   inkscape:export-filename="C:\Users\uxizde\Desktop\bondup_logo.png"
+   inkscape:export-filename="C:\Users\uxizde\play\hustunique-hackday\bondup_logo.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -56,50 +56,44 @@
      id="layer1"
      transform="translate(0,-852.36218)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:9.52493858;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:15.64543056;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect2995"
-       width="490.06076"
-       height="188.39502"
-       x="5.0505509"
-       y="859.0202"
-       rx="48.911831"
-       ry="18.80327" />
-    <rect
-       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect3765"
-       width="3.9460502"
-       height="15.784201"
-       x="-324.56262"
-       y="502.13489"
-       transform="translate(0,540.36218)"
-       rx="32"
-       ry="15.784201" />
-    <text
-       xml:space="preserve"
-       style="font-size:218.10736084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
-       x="50.242439"
-       y="1227.7129"
-       id="text3767"
-       sodipodi:linespacing="125%"
-       transform="scale(1.2045646,0.83017549)"><tspan
-         sodipodi:role="line"
-         id="tspan3769"
-         x="50.242439"
-         y="1227.7129"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">B</tspan></text>
+       width="484.35458"
+       height="184.35457"
+       x="7.8227153"
+       y="860.18488"
+       rx="47.441093"
+       ry="46.970562" />
     <g
        id="g3777"
-       transform="matrix(2.243611,0,0,1.2574123,-362.11634,-49.998607)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path3773"
-         d="m 316.67052,746.5433 -37.48748,57.21772 73.00193,0 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path3775"
-         d="m 301.87283,801.43752 0,47.70308 26.63584,0 0,-48.33911 0,0 z"
-         style="fill:#000000;fill-opacity:1;stroke:none" />
+       transform="translate(-7.1774801,0)">
+      <text
+         transform="scale(1.2045646,0.83017549)"
+         sodipodi:linespacing="125%"
+         id="text3767"
+         y="1226.6824"
+         x="50.242439"
+         style="font-size:218.10736084px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           y="1226.6824"
+           x="50.242439"
+           id="tspan3769"
+           sodipodi:role="line">B</tspan></text>
+      <g
+         transform="matrix(2.243611,0,0,1.2574123,-362.11634,-50.854101)"
+         id="g3781">
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="m 316.67052,746.5433 -37.48748,57.21772 73.00193,0 z"
+           id="path3773"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           d="m 301.87283,801.43752 0,47.70308 26.63584,0 0,-48.33911 0,0 z"
+           id="path3775"
+           inkscape:connector-curvature="0" />
+      </g>
     </g>
   </g>
 </svg>
