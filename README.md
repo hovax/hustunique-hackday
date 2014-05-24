@@ -1,4 +1,4 @@
-hustunique-hackday
+BondUP - Decentralized Web App for Hangouts
 ==================
 
 Nice.  - uxizde
