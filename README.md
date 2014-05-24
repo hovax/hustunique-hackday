@@ -1,3 +1,2 @@
-#BondUP
-
-##The Decentralized Hangout App
+# Group #27
+頑張れ。
