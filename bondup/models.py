@@ -33,7 +33,7 @@ class Event(db.Model):
 class Person(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     name = db.Column(db.String(64), unique=True)
-    age = db.Column(db.DateTime)
+    age = db.Column(db.Integer)
     flex = db.Column(db.Integer)
     credit = db.Column(db.Integer)
     tags = db.relationship('Tag',
