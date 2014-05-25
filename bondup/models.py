@@ -1,4 +1,4 @@
-from app import db
+from bondup import db
 
 events_people = db.Table('events_people',
     db.Column('person_id', db.Integer, db.ForeignKey('person.id')),
